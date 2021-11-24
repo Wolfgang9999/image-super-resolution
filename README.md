@@ -12,6 +12,8 @@ Image Super Resolution
    ```
    $ python -m venv env
    $ source env/bin/activate
+   or
+   $ env\Scripts\activate
    ```
 3. Install requirements
    ```
